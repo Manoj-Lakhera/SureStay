@@ -1,6 +1,7 @@
 {
   "engines": {
-    "node" : "24.2.0"
+    "node" : "24.2.0",
+    "build": "echo 'No build step required'"
   },
   "name": "majorproject",
   "version": "1.0.0",
